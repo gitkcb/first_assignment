@@ -15,3 +15,11 @@ Provide instructions and examples for use. Include screenshots as needed.
 Original code from: https://github.com/coding-boot-camp/urban-octo-telegram
 
 
+## Links
+Live website:
+https://gitkcb.github.io/first_assignment/
+Preview of website:
+https://drive.google.com/file/d/1WSMKYBgVpM2pfePyzr9itTSbcRIvofWS/view
+My Github repository:
+https://github.com/gitkcb
+
